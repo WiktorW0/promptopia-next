@@ -3,6 +3,8 @@ import { useState, useEffect } from "react"
 import PromptCard from "./PromptCard"
 import Loading from "@/app/loading"
 
+export const dynamic ='force-dynamic'
+
 const PromptCardList=({data, handleTagClick})=>{
   return (
     <div
@@ -20,6 +22,7 @@ const PromptCardList=({data, handleTagClick})=>{
     </div>
   )
 }
+
 
 const Feed = () => {
   const [searchText, setSearchText] = useState('')
