@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"
 import PromptCard from "./PromptCard"
 import Loading from "@/app/loading"
 
-export const dynamic ='force-dynamic'
+export const dynamic = "force-dynamic";
 
 const PromptCardList=({data, handleTagClick})=>{
   return (
