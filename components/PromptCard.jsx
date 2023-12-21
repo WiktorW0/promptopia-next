@@ -38,7 +38,7 @@ const PromptCard = ({post, handleTagClick, handleEdit,handleDelete}) => {
           />
           <div className="flex flex-col">
             <h3 className="font-satoshi font-semibold text-gray-900">{post.creator.username}</h3>
-            <p className="font-inter text-sm text-gray-500">{post.creator.email}</p>
+            <p className="font-inter text-sm text-gray-500  text-ellipsis">{post.creator.email}</p>
           </div>
         </div>
         <div className="copy_btn" onClick={handleCopy}>
@@ -65,7 +65,7 @@ const PromptCard = ({post, handleTagClick, handleEdit,handleDelete}) => {
           </p>
         )
       })}
-      {session?.user.id===post.creator._id && pathName==='/profile' &&(
+      {session?.user.id===post?.creator?._id && pathName==='/profile' &&(
         <div className="mt-t flex-center gap-4 border-t border-gray-100 pt-3">
           <p className="font-inter text-sm green_gradient cursor-pointer" onClick={handleEdit}>
             Edit
