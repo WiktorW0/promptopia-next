@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
 
-## Getting Started
+[Demo Page](https://promptopia-next-git-main-wiktors-projects-88a86d3a.vercel.app/)
 
-First, run the development server:
+***Promptopia is NextJS full stack project that is a part of NextJS crash course shown on [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) channel.***
+</br>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+***Promptopia is web aplication simillar to PromptHero. It allows to post, share and look for usefull prompts for AI systems like ChatGPT, NovelAI, Stable Diffusion or Mixtral-8x7B.***
+</br>
+  
+***It was time for me to leoarn some backend and i choose to do my first full stack aplication with NextJS as it simplifies establishing React rounting and using API endpoints thanks to Serverless Route Handlers. Most of the things i learned during this project were really groundbreaking for me, so after i completed it and added missing functionalities, i felt really satisfied with it.
+It was my first contact with backend develepment and with NoSQL database - MongoDB with Mongoose as frontend for it. At the end i added search bar thas allows filtering posts by username, tags and content as well as option to check other poeple profile pages and their posts.***
+</br>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+***And of course the design is fully responsive.***
+ 
+## ⚒️ Built with:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- Next 14
+- NextAuth
+- React
+- MongoDB
+- Mongoose
+- TailwindCSS
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📷 Screenshots:
+<p align="center">
+<img src="https://i.imgur.com/WB3LLF4.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/ukkRd3f.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/moogrrg.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/4U5x44j.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/lhh3ojs.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/RsbLPCO.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/oczg6UZ.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/r4wNy3X.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/vkqFFVM.png" height="100%" width="100%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/RqGXVC2.png" height="50%" width="50%" alt="Promptopia"/>
+<br />
+<img src="https://i.imgur.com/yDWz6XN.png" height="50%" width="50%" alt="Promptopia"/>
+<br />
