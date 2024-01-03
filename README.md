@@ -1,6 +1,6 @@
 # Promptopia
 
-[Demo Page](https://promptopia-next-git-main-wiktors-projects-88a86d3a.vercel.app/)
+[Demo Page](https://promptopia-next-ruby.vercel.app)
 
 ***Promptopia is NextJS full stack project that is a part of NextJS crash course shown on [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) channel.***
 </br>
