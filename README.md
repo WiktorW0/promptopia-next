@@ -8,7 +8,7 @@
 ***Promptopia is web aplication simillar to PromptHero. It allows to post, share and look for usefull prompts for AI systems like ChatGPT, NovelAI, Stable Diffusion or Mixtral-8x7B.***
 </br>
   
-***It was time for me to leoarn some backend and i choose to do my first full stack aplication with NextJS as it simplifies establishing React rounting and using API endpoints thanks to Serverless Route Handlers. Most of the things i learned during this project were really groundbreaking for me, so after i completed it and added missing functionalities, i felt really satisfied with it.
+***It was time for me to learn some backend and i choose to do my first full stack aplication with NextJS as it simplifies establishing React rounting and using API endpoints thanks to Serverless Route Handlers. Most of the things i learned during this project were really groundbreaking for me, so after i completed it and added missing functionalities, i felt really satisfied with it.
 It was my first contact with backend develepment and with NoSQL database - MongoDB with Mongoose as frontend for it. At the end i added search bar thas allows filtering posts by username, tags and content as well as option to check other poeple profile pages and their posts.***
 </br>
 
